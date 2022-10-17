@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/oubak72jess175re?svg=true)](https://ci.appveyor.com/project/chaika1986/patterns-2-qqui3)
+[![Build status](https://ci.appveyor.com/api/projects/status/vonjr9udlxfrk5tg?svg=true)](https://ci.appveyor.com/project/chaika1986/patterns2)
